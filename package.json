@@ -1,0 +1,22 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "webgl学习总结",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wsypower/WebGL-study.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "weiyafei <2553241022@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wsypower/WebGL-study/issues"
+  },
+  "homepage": "https://github.com/wsypower/WebGL-study#readme"
+}
